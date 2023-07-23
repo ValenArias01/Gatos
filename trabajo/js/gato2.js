@@ -1,4 +1,3 @@
-
 console.log("B)")
 
 var cantidadDeGatos = 5;
